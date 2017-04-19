@@ -1,0 +1,146 @@
+TEquatorial2Galactic2
+v7
+r0
+t303450780.145018
+cCheck dependencies
+cCompileC build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/main.o /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/coordMath.o /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/eq2gal.o /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7D589B00000000000000EE
+t1266505883
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/math.h
+c0000000047BA987000000000000004B7
+t1203411056
+s1207
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h
+c0000000047BA99310000000000002A79
+t1203411249
+s10873
+
+N/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/Equatorial2Galactic.h
+c000000004956F79900000000000000FE
+t1230436249
+s254
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+
+N/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Debug/Equatorial2Galactic
+t1230443014
+s14360
+
+N/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/Equatorial2Galactic.LinkFileList
+c000000004956F5D900000000000001C6
+t1230435801
+s454
+
+N/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/coordMath.o
+t2
+s0
+
+N/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/eq2gal.o
+t2
+s0
+
+N/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/main.o
+t1281757980
+s3932
+
+N/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp
+c00000000495706150000000000000470
+t1230439957
+s1136
+i"coordMath.h"
+
+N/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h
+c0000000049685DDC00000000000001F3
+t1231576540
+s499
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+
+N/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp
+c0000000049570FD000000000000005DB
+t1230442448
+s1499
+i"eq2gal.h"
+
+N/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.h
+c000000004956FE3300000000000001AF
+t1230437939
+s431
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i"coordMath.h"
+
+N/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/main.cpp
+c0000000049570AC800000000000001F0
+t1230441160
+s496
+i"Equatorial2Galactic.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303450779#303450779#0(0"0(0#1#0"8623363904#0"0#
+
+CCompileC build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/coordMath.o /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s303450779.632493
+e303450780.095843
+r0
+xCompileC
+xbuild/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/coordMath.o
+x/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp:10:
+o/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h:1: error: stray '\303' in program
+o/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h:1: error: stray '\270' in program
+lSLF07#2@78"Compile /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp303450779#303450780#0(303"In file included from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp:10:/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h:1: error: stray '\303' in program/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h:1: error: stray '\270' in program4(22@111"The option '-D_GLIBCXX_DEBUG_PEDANTIC=1' should not be passed to GCC 4.2 and has been automatically suppressed.303450761#18446744073709551615#0#0(1@0"0(22@102"The option '-D_GLIBCXX_DEBUG=1' should not be passed to GCC 4.2 and has been automatically suppressed.303450761#18446744073709551615#0#0(1@0"0(4@23"Stray '\303' in program303450780#97#103#2(7@92"In file included from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp303450779#18446744073709551615#0#0(6@70"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp252132757#10#0#10#0#0"0(13@95"Stray '\303' in program in /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h303450780#18446744073709551615#0#0(6@68"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h253269340#1#0#1#0#0"0(6@68"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h253269340#1#0#1#0#20"stray '*' in program0(4@23"Stray '\270' in program303450780#200#103#2(7@92"In file included from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp303450779#18446744073709551615#0#0(6@70"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp252132757#10#0#10#0#0"0(13@95"Stray '\270' in program in /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h303450780#18446744073709551615#0#0(6@68"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h253269340#1#0#1#0#0"0(6@68"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h253269340#1#0#1#0#20"stray '*' in program0(0#0#70"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp7599087896810973184#1768"    cd /Users/psinclai/Documents/dev/coords/Equatorial2Galactic    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-generated-files.hmap -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-own-target-headers.hmap -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-all-target-headers.hmap -iquote /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-project-headers.hmap -F/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Debug -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Debug/include -I/Users/psinclai/Documents/Linux/dev/coords/aaplus -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/DerivedSources/i386 -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/DerivedSources -c /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.cpp -o /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/coordMath.o1#
+
+CCompileC build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/eq2gal.o /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s303450780.095939
+e303450780.144922
+r0
+xCompileC
+xbuild/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/eq2gal.o
+x/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.h:13,
+o                 from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp:10:
+o/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h:1: error: stray '\303' in program
+o/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h:1: error: stray '\270' in program
+lSLF07#2@75"Compile /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp303450780#303450780#0(392"In file included from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.h:13,                 from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp:10:/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h:1: error: stray '\303' in program/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h:1: error: stray '\270' in program4(22@111"The option '-D_GLIBCXX_DEBUG_PEDANTIC=1' should not be passed to GCC 4.2 and has been automatically suppressed.303450761#18446744073709551615#0#0(1@0"0(22@102"The option '-D_GLIBCXX_DEBUG=1' should not be passed to GCC 4.2 and has been automatically suppressed.303450761#18446744073709551615#0#0(1@0"0(4@23"Stray '\303' in program303450780#186#103#3(7@89"In file included from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp303450780#18446744073709551615#0#0(6@67"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp252135248#10#0#10#0#0"0(7@87"In file included from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.h303450780#18446744073709551615#0#0(6@65"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.h252130739#13#0#13#0#0"0(13@95"Stray '\303' in program in /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h303450780#18446744073709551615#0#0(6@68"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h253269340#1#0#1#0#0"0(6@68"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h253269340#1#0#1#0#20"stray '*' in program0(4@23"Stray '\270' in program303450780#289#103#3(7@89"In file included from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp303450780#18446744073709551615#0#0(6@67"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp252135248#10#0#10#0#0"0(7@87"In file included from /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.h303450780#18446744073709551615#0#0(6@65"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.h252130739#13#0#13#0#0"0(13@95"Stray '\270' in program in /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h303450780#18446744073709551615#0#0(6@68"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h253269340#1#0#1#0#0"0(6@68"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/coordMath.h253269340#1#0#1#0#20"stray '*' in program0(0#0#67"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp8612598976#1762"    cd /Users/psinclai/Documents/dev/coords/Equatorial2Galactic    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-generated-files.hmap -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-own-target-headers.hmap -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-all-target-headers.hmap -iquote /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-project-headers.hmap -F/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Debug -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Debug/include -I/Users/psinclai/Documents/Linux/dev/coords/aaplus -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/DerivedSources/i386 -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/DerivedSources -c /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/eq2gal.cpp -o /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/eq2gal.o1#
+
+CCompileC build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/main.o /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s303450779.542609
+e303450780.096977
+r1
+xCompileC
+xbuild/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/main.o
+x/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/main.cpp303450779#303450780#0(0"2(22@111"The option '-D_GLIBCXX_DEBUG_PEDANTIC=1' should not be passed to GCC 4.2 and has been automatically suppressed.303450761#18446744073709551615#0#0(1@0"0(22@102"The option '-D_GLIBCXX_DEBUG=1' should not be passed to GCC 4.2 and has been automatically suppressed.303450761#18446744073709551615#0#0(1@0"0(0#0#65"/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/main.cpp8611263456#1758"    cd /Users/psinclai/Documents/dev/coords/Equatorial2Galactic    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-generated-files.hmap -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-own-target-headers.hmap -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-all-target-headers.hmap -iquote /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Equatorial2Galactic-project-headers.hmap -F/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Debug -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Debug/include -I/Users/psinclai/Documents/Linux/dev/coords/aaplus -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/DerivedSources/i386 -I/Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/DerivedSources -c /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/main.cpp -o /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Equatorial2Galactic.build/Debug/Equatorial2Galactic2.build/Objects-normal/i386/main.o0#
+
+CLd /Users/psinclai/Documents/dev/coords/Equatorial2Galactic/build/Debug/Equatorial2Galactic normal i386
+r0
+

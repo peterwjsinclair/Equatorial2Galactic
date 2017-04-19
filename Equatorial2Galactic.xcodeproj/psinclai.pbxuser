@@ -1,0 +1,586 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9D4134670F04B67B0045B0D0 /* Equatorial2Galactic2 */;
+		activeTarget = 8DD76F620486A84900D96B5E /* Equatorial2Galactic2 */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* Equatorial2Galactic2 */,
+		);
+		breakpoints = (
+			9DB1A9190F05F8AA002AA470 /* main.cpp:14 */,
+		);
+		codeSenseManager = 9D41346D0F04B69A0045B0D0 /* Code sense */;
+		executables = (
+			9D4134670F04B67B0045B0D0 /* Equatorial2Galactic2 */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					420,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					331,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					443,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					383,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					403,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 303450760;
+			PBXWorkspaceStateSaveDate = 303450760;
+		};
+		perUserProjectItems = {
+			9D1D77C3116F46E5004DCB25 /* PBXTextBookmark */ = 9D1D77C3116F46E5004DCB25 /* PBXTextBookmark */;
+			9D1D77C4116F46E5004DCB25 /* PBXTextBookmark */ = 9D1D77C4116F46E5004DCB25 /* PBXTextBookmark */;
+			9D1D77C5116F46E5004DCB25 /* PBXTextBookmark */ = 9D1D77C5116F46E5004DCB25 /* PBXTextBookmark */;
+			9D1D77C8116F46E5004DCB25 /* PBXTextBookmark */ = 9D1D77C8116F46E5004DCB25 /* PBXTextBookmark */;
+			9D41E79012164AA60043C562 /* PBXTextBookmark */ = 9D41E79012164AA60043C562 /* PBXTextBookmark */;
+			9D41E79112164AA60043C562 /* PBXTextBookmark */ = 9D41E79112164AA60043C562 /* PBXTextBookmark */;
+			9D41E79212164AA60043C562 /* PBXTextBookmark */ = 9D41E79212164AA60043C562 /* PBXTextBookmark */;
+			9D41E79412164AA60043C562 /* PBXTextBookmark */ = 9D41E79412164AA60043C562 /* PBXTextBookmark */;
+			9D41E79512164AA60043C562 /* PBXTextBookmark */ = 9D41E79512164AA60043C562 /* PBXTextBookmark */;
+			9D41E79612164AA60043C562 /* PBXTextBookmark */ = 9D41E79612164AA60043C562 /* PBXTextBookmark */;
+			9DA8D6B80F072B0C007CC4A6 /* PBXTextBookmark */ = 9DA8D6B80F072B0C007CC4A6 /* PBXTextBookmark */;
+			9DA8D6D70F072F2A007CC4A6 /* PBXTextBookmark */ = 9DA8D6D70F072F2A007CC4A6 /* PBXTextBookmark */;
+			9DA8D7040F07301F007CC4A6 /* PBXTextBookmark */ = 9DA8D7040F07301F007CC4A6 /* PBXTextBookmark */;
+			9DA8D7160F0735F3007CC4A6 /* PBXTextBookmark */ = 9DA8D7160F0735F3007CC4A6 /* PBXTextBookmark */;
+			9DA8D7210F0735F3007CC4A6 /* PBXTextBookmark */ = 9DA8D7210F0735F3007CC4A6 /* PBXTextBookmark */;
+			9DA8D7230F0735F3007CC4A6 /* PBXTextBookmark */ = 9DA8D7230F0735F3007CC4A6 /* PBXTextBookmark */;
+			9DA8D73F0F0738CB007CC4A6 /* PBXTextBookmark */ = 9DA8D73F0F0738CB007CC4A6 /* PBXTextBookmark */;
+			9DA8D74C0F073CEA007CC4A6 /* PBXTextBookmark */ = 9DA8D74C0F073CEA007CC4A6 /* PBXTextBookmark */;
+			9DA8D74E0F073CEA007CC4A6 /* PBXTextBookmark */ = 9DA8D74E0F073CEA007CC4A6 /* PBXTextBookmark */;
+			9DB1A8E20F05E15F002AA470 /* PBXTextBookmark */ = 9DB1A8E20F05E15F002AA470 /* PBXTextBookmark */;
+			9DB1A8FF0F05E93C002AA470 /* PBXTextBookmark */ = 9DB1A8FF0F05E93C002AA470 /* PBXTextBookmark */;
+			9DD3A29E0F18955F00BDA390 /* PBXTextBookmark */ = 9DD3A29E0F18955F00BDA390 /* PBXTextBookmark */;
+			9DD3A29F0F18955F00BDA390 /* PBXTextBookmark */ = 9DD3A29F0F18955F00BDA390 /* PBXTextBookmark */;
+			9DD3A2A00F18955F00BDA390 /* PBXTextBookmark */ = 9DD3A2A00F18955F00BDA390 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9D41346C0F04B69A0045B0D0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 484}}";
+			sepNavSelRange = "{144, 43}";
+			sepNavVisRange = "{0, 496}";
+			sepNavWindowFrame = "{{245, 90}, {887, 663}}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* Equatorial2Galactic2 */ = {
+		activeExec = 0;
+		executables = (
+			9D4134670F04B67B0045B0D0 /* Equatorial2Galactic2 */,
+		);
+	};
+	9D1D77C3116F46E5004DCB25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DB1A8CF0F05DF4C002AA470 /* coordMath.h */;
+		name = "coordMath.h: 17";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	9D1D77C4116F46E5004DCB25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DA8D6B40F072A56007CC4A6 /* eq2gal.h */;
+		name = "eq2gal.h: 14";
+		rLen = 0;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	9D1D77C5116F46E5004DCB25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9D1D77C6116F46E5004DCB25 /* rG.m */;
+		name = "rG.m: 30";
+		rLen = 304;
+		rLoc = 785;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	9D1D77C6116F46E5004DCB25 /* rG.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = rG.m;
+		path = /Users/psinclai/Documents/dev/coords/octave/rG.m;
+		sourceTree = "<absolute>";
+	};
+	9D1D77C8116F46E5004DCB25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DA8D6B50F072A56007CC4A6 /* eq2gal.cpp */;
+		name = "eq2gal.cpp: 17";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 18;
+	};
+	9D4134670F04B67B0045B0D0 /* Equatorial2Galactic2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+			YES,
+		);
+		argumentStrings = (
+			0.00379737,
+			"-19.49883745",
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Equatorial2Galactic2;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$mm0 = 1;
+			$mm1 = 1;
+			$mm2 = 1;
+			$mm3 = 1;
+			$mm4 = 1;
+			$mm5 = 1;
+			$mm6 = 1;
+			$mm7 = 1;
+			$mxcsr = 1;
+			$xmm0 = 1;
+			$xmm1 = 1;
+			$xmm2 = 1;
+			$xmm3 = 1;
+			$xmm4 = 1;
+			$xmm5 = 1;
+			$xmm6 = 1;
+			$xmm7 = 1;
+		};
+	};
+	9D41346C0F04B69A0045B0D0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9D41346D0F04B69A0045B0D0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9D4134780F04B9150045B0D0 /* Equatorial2Galactic.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 484}}";
+			sepNavSelRange = "{179, 38}";
+			sepNavVisRange = "{0, 254}";
+			sepNavWindowFrame = "{{47, 115}, {887, 663}}";
+		};
+	};
+	9D41E79012164AA60043C562 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DB1A8CF0F05DF4C002AA470 /* coordMath.h */;
+		name = "coordMath.h: 17";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	9D41E79112164AA60043C562 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DA8D6B40F072A56007CC4A6 /* eq2gal.h */;
+		name = "eq2gal.h: 14";
+		rLen = 0;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	9D41E79212164AA60043C562 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9D41E79312164AA60043C562 /* rG.m */;
+		name = "rG.m: 30";
+		rLen = 304;
+		rLoc = 785;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	9D41E79312164AA60043C562 /* rG.m */ = {
+		isa = PBXFileReference;
+		name = rG.m;
+		path = /Users/psinclai/Documents/dev/coords/octave/rG.m;
+		sourceTree = "<absolute>";
+	};
+	9D41E79412164AA60043C562 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9D4134780F04B9150045B0D0 /* Equatorial2Galactic.h */;
+		name = "Equatorial2Galactic.h: 11";
+		rLen = 38;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	9D41E79512164AA60043C562 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 6";
+		rLen = 43;
+		rLoc = 144;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+	9D41E79612164AA60043C562 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 6";
+		rLen = 43;
+		rLoc = 144;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+	9DA8D6B40F072A56007CC4A6 /* eq2gal.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 338}}";
+			sepNavSelRange = "{227, 0}";
+			sepNavVisRange = "{0, 0}";
+			sepNavWindowFrame = "{{19, 110}, {887, 663}}";
+		};
+	};
+	9DA8D6B50F072A56007CC4A6 /* eq2gal.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 1001}}";
+			sepNavSelRange = "{280, 0}";
+			sepNavVisRange = "{18, 866}";
+		};
+	};
+	9DA8D6B80F072B0C007CC4A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DA8D6B90F072B0C007CC4A6 /* rG.m */;
+		name = "rG.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 0;
+	};
+	9DA8D6B90F072B0C007CC4A6 /* rG.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = rG.m;
+		path = /Users/psinclai/Documents/dev/coords/octave/rG.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 1040}}";
+			sepNavSelRange = "{785, 304}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+	9DA8D6C20F072B0C007CC4A6 /* rG.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = rG.m;
+		path = /Users/psinclai/Documents/dev/coords/octave/rG.m;
+		sourceTree = "<absolute>";
+	};
+	9DA8D6D70F072F2A007CC4A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9D4134780F04B9150045B0D0 /* Equatorial2Galactic.h */;
+		name = "Equatorial2Galactic.h: 11";
+		rLen = 0;
+		rLoc = 198;
+		rType = 0;
+		vrLen = 237;
+		vrLoc = 0;
+	};
+	9DA8D7040F07301F007CC4A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9D4134780F04B9150045B0D0 /* Equatorial2Galactic.h */;
+		name = "Equatorial2Galactic.h: 16";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	9DA8D7160F0735F3007CC4A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DB1A8CF0F05DF4C002AA470 /* coordMath.h */;
+		name = "coordMath.h: 16";
+		rLen = 0;
+		rLoc = 498;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	9DA8D7210F0735F3007CC4A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DA8D7220F0735F3007CC4A6 /* AACoordinateTransformation.h */;
+		name = "AACoordinateTransformation.h: 87";
+		rLen = 33;
+		rLoc = 2612;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 2338;
+	};
+	9DA8D7220F0735F3007CC4A6 /* AACoordinateTransformation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AACoordinateTransformation.h;
+		path = /Users/psinclai/Documents/dev/coords/aaplus/AACoordinateTransformation.h;
+		sourceTree = "<absolute>";
+	};
+	9DA8D7230F0735F3007CC4A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DA8D6B40F072A56007CC4A6 /* eq2gal.h */;
+		name = "eq2gal.h: 19";
+		rLen = 0;
+		rLoc = 338;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 80;
+	};
+	9DA8D73F0F0738CB007CC4A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DB1A8CF0F05DF4C002AA470 /* coordMath.h */;
+		name = "coordMath.h: 16";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	9DA8D74C0F073CEA007CC4A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DA8D6C20F072B0C007CC4A6 /* rG.m */;
+		name = "rG.m: 37";
+		rLen = 303;
+		rLoc = 1154;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 912;
+	};
+	9DA8D74E0F073CEA007CC4A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DA8D7220F0735F3007CC4A6 /* AACoordinateTransformation.h */;
+		name = "AACoordinateTransformation.h: 60";
+		rLen = 117;
+		rLoc = 2056;
+		rType = 0;
+		vrLen = 1281;
+		vrLoc = 1200;
+	};
+	9DB1A8CF0F05DF4C002AA470 /* coordMath.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 299}}";
+			sepNavSelRange = "{280, 0}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+	9DB1A8D00F05DF4C002AA470 /* coordMath.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 756}}";
+			sepNavSelRange = "{536, 520}";
+			sepNavVisRange = "{242, 893}";
+			sepNavWindowFrame = "{{550, 115}, {887, 663}}";
+		};
+	};
+	9DB1A8E20F05E15F002AA470 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859E8B029090EE04C91782 /* Equatorial2Galactic.1 */;
+		name = "Equatorial2Galactic.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1326;
+		vrLoc = 0;
+	};
+	9DB1A8FF0F05E93C002AA470 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9D4134780F04B9150045B0D0 /* Equatorial2Galactic.h */;
+		name = "Equatorial2Galactic.h: 20";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	9DB1A9190F05F8AA002AA470 /* main.cpp:14 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		functionName = "main (int argc, char * const argv[])";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 14;
+		location = Equatorial2Galactic;
+		modificationTime = 303450786.853761;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	9DD3A29E0F18955F00BDA390 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DB1A8CF0F05DF4C002AA470 /* coordMath.h */;
+		name = "coordMath.h: 15";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 0;
+	};
+	9DD3A29F0F18955F00BDA390 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DA8D6B40F072A56007CC4A6 /* eq2gal.h */;
+		name = "eq2gal.h: 15";
+		rLen = 157;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 0;
+	};
+	9DD3A2A00F18955F00BDA390 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DB1A8D00F05DF4C002AA470 /* coordMath.cpp */;
+		name = "coordMath.cpp: 31";
+		rLen = 520;
+		rLoc = 536;
+		rType = 0;
+		vrLen = 893;
+		vrLoc = 242;
+	};
+	C6859E8B029090EE04C91782 /* Equatorial2Galactic.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {708, 1022}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1326}";
+		};
+	};
+}
