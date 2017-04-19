@@ -3,8 +3,8 @@
  *  Equatorial2Galactic
  *
  *  Created by psinclai on 28/12/08.
- *  Copyright 2008 __MyCompanyName__. All rights reserved.
- *
+ *  From Hipparcos Catalog Documentatiation
+ *  Section 1.5. Transformation of Astrometric Data and Associated Error Propagation
  */
 
 #include <stdio.h>
